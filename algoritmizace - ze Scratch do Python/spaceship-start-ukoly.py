@@ -1,3 +1,5 @@
+#program v Scratch: https://scratch.mit.edu/projects/651101717
+
 import random
 import sys
 
