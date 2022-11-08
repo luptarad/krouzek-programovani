@@ -2,7 +2,7 @@ import time
 
 def printDots():
     i = 0
-    while i < 18:
+    while i < 30:
         print(".", end = " ")
         time.sleep(0.03)
         i = i + 1
